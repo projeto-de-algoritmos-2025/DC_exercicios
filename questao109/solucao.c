@@ -45,7 +45,7 @@ struct TreeNode* sortedListToBST(struct ListNode* head) {
         prev->next = NULL;
     }
 
-    struct TreeNode* node  = (struct TreeNode*)malloc(sizeof(struct TreeNode));
+    struct TreeNode* root  = (struct TreeNode*)malloc(sizeof(struct TreeNode));
     
     root->val = slow->val;
     root->left = sortedListToBST(head);
