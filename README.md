@@ -12,9 +12,9 @@
 
 Nesse projeto resolvemos duas questões: Uma média e uma difícil.
 
-A primeira questão é 4 de nível difícil é possível encontrar em https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envId=divide-and-conquer e ela trata sobre encontrar a mediana com dois arrays dados.
+A primeira questão é 4 de nível difícil é possível encontrar em [Questão 4 - Díficil](https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envId=divide-and-conquer) e ela trata sobre encontrar a mediana com dois arrays dados.
 
-Já a segunda questão que é a questão 109 de nível médio em que realizamos a conversão de uma "sorted list" para uma "BST" e podemos verificar a questão aqui: https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/?envType=problem-list-v2&envId=divide-and-conquer
+Já a segunda questão que é a questão 109 de nível médio em que realizamos a conversão de uma "sorted list" para uma "BST" e podemos verificar a questão aqui: [Questão 109 - Média](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/?envType=problem-list-v2&envId=divide-and-conquer) 
 
 ## Screenshots
 
@@ -35,6 +35,9 @@ Já a segunda questão que é a questão 109 de nível médio em que realizamos 
 
 Obs.: Necessário estar logado na página LeetCode
 
+## Apresentação
+
+Vídeo disponível em: [youtube](https://youtu.be/cr3y-GpyLoY)
 
 
 
