@@ -16,19 +16,27 @@ Nesse projeto resolvemos quatro questões: duas médias e duas difíceis.
 
 - A segunda questão é a 109 de nível médio, que pode ser encontrada em [Questão 109 - Média](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/?envType=problem-list-v2&envId=divide-and-conquer). Nela realizamos a conversão de uma "sorted list" para uma "BST" (árvore binária de busca balanceada), também resolvida em C.
 
-- A terceira questão é a 3271 de nível médio, disponível em [Questão 3271 - Média](https://leetcode.com/problems/string-hash/description/). Ela trata sobre a geração de um hash de string por blocos, resolvida em Python.
+- A terceira questão é a 3271 de nível médio, disponível em [Questão 3271 - Média](https://leetcode.com/problems/hash-divided-string/description/). Ela trata sobre a geração de um hash de string por blocos, resolvida em Python.
 
 - A quarta questão é a 3533 de nível difícil, disponível em [Questão 3533 - Difícil](https://leetcode.com/problems/concatenated-divisibility/description/). O desafio consiste em encontrar a menor permutação lexicográfica de inteiros que, ao serem concatenados, formam um número divisível por k. A solução foi implementada em Python.
 
 ## Screenshots
-
+### Hard
 ![Resultado da questão 4](./result-q4.png)
 
+---
+### Medium
 ![Resultado da questão 109](./result-q109.png)
 
+---
+### Hard
 ![Resultado da questão 3271](./result_q3271.png)
 
+---
+### Medium
 ![Resultado da questão 3533](./result_q3533.png)
+
+---
 
 ## Instalação 
 **Linguagens**: C e Python<br>
